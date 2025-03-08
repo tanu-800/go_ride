@@ -1,5 +1,5 @@
 # GORIDE
--Codecrafters is developing a user-friendly travel website that manages bus routes and provides efficient navigation. Our goal is to help users easily find and navigate bus routes, ensuring a smooth and hassle-free travel experience.
+- Codecrafters is developing a user-friendly travel website that manages bus routes and provides efficient navigation. Our goal is to help users easily find and navigate bus routes, ensuring a smooth and hassle-free travel experience.
 ## 🚀 Technologies Used
 ### Frontend:
 - HTML
@@ -8,7 +8,7 @@
 ### Backend:
 - JavaScript
 ### API Integration:
-- [Insert API name here] (you can specify the APIs you used, for example: Google Maps API, Bus Route API, etc.)
+
 
 ## 👩‍💻 Team Members
 - Shruti Gupta
