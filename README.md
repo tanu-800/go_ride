@@ -6,8 +6,8 @@
 -  API used: 
 
 ### team members:
-- shruti gupta
-- tanu jain
-- pranchal rana
-- shivangi gupta
-- sonam
+* shruti gupta
+* tanu jain
+* pranchal rana
+* shivangi gupta
+* sonam
