@@ -1,4 +1,4 @@
-# CODECRAFTERS
+# GORIDE
 Codecrafters is developing a user-friendly travel website that manages bus routes and provides efficient navigation. Our goal is to help users easily find and navigate bus routes, ensuring a smooth and hassle-free travel experience.
 
 ## technologies used: 
