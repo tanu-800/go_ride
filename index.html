@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <title>College Bus Tracker</title>
+
+    <!-- Link to CSS file -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" 
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin=""/>
+    <!-- Leaflet JavaScript -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+     crossorigin=""></script>
+
+    <!-- Leaflet CSS (for the map) -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            height: 100vh; /* Full viewport height */
+            margin: 0;
+        }
+        #heading {
+            margin-top: 20px; /* Adjust the margin as needed */
+            text-align: center;
+        }
+        #map {
+            height: 700px; /* Adjust the height as needed */
+            width: 90%; /* Adjust the width as needed */
+            max-width: 800px; /* Optional: set a max-width */
+            box-sizing: border-box;
+            border: 2px solid #000; /* Optional: add a border for clarity */
+        }
+    </style>
+    
+    
+</head>
+<body>
+
+    <h2>GoRide</h2>
+    <div id="map"></div> <!-- This is where the map will appear -->
+
+    <!-- Leaflet JS -->
+    <script>
+        var mymap = L.map('map').setView([51.505, -0.09], 13);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(mymap);
+    </script>
+</body>
+</html>
+    
