@@ -1,6 +1,5 @@
 # CODECRAFTERS
-. currently working on travel website
-
+- Codecrafters is currently developing a travel website that will manage bus routes and provide navigation. 
 ## technologies used: 
 - web devlopment: html ,css , framworks(bootstrap studio)
 -  backend: js 
