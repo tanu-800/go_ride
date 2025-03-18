@@ -1,7 +1,7 @@
 # 🚌 GORIDE - Smart Bus Navigation
 
 <p align="center">
-<img src="first/missed-youre-late.gif" width="350" height="350" alt="You're Late GIF">
+<img src="missed-youre-late.gif" width="350" height="350" alt="You're Late GIF">
 </p>
 
 ## 🚀 No More Waiting & Losing a Bus!  
@@ -56,7 +56,7 @@ Codecrafters is developing a **user-friendly travel website** that **manages bus
 ---
 
 <p align="center">
-  <img src="first/Sandy_Tsp-01_Single-12.jpg" width="400" height="400" alt="Bus Tracking Interface">
+  <img src="Sandy_Tsp-01_Single-12.jpg" width="400" height="400" alt="Bus Tracking Interface">
 </p>
 
 ---
