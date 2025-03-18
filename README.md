@@ -1,7 +1,7 @@
 # 🚌 GORIDE - Smart Bus Navigation
 
 <p align="center">
-<img src="missed-youre-late.gif" width="350" height="350" alt="You're Late GIF">
+<img src="missed-youre-late.gif" width="650" height="350"  alt="You're Late GIF">
 </p>
 
 ## 🚀 No More Waiting & Losing a Bus!  
