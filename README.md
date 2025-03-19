@@ -1,4 +1,5 @@
 # 🚌 GORIDE - Smart Bus Navigation
+<a name="readme-top"></a>
 [![Contributors](https://img.shields.io/github/contributors/shruti0781/go_ride?style=for-the-badge)](https://github.com/shruti0781/go_ride/graphs/contributors)
 [![Forks](https://img.shields.io/github/forks/shruti0781/go_ride?style=for-the-badge)](https://github.com/shruti0781/go_ride/network/members)
 [![Issues](https://img.shields.io/github/issues/shruti0781/go_ride?style=for-the-badge)](https://github.com/shruti0781/go_ride/issues)
