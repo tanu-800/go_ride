@@ -5,7 +5,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="images/whatsapp_image.jpg" alt="Logo" width="80" height="80">
+    <img src="images/whatsapp_image.jpg" alt="Logo" width="100" height="100">
   </a>
   <h3 align="center">Paving Your Path</h3>
 <p align="center">
