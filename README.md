@@ -1,4 +1,6 @@
 # 🚌 GORIDE - Smart Bus Navigation
+[![Contributors](https://img.shields.io/github/contributors/shruti0781/go_ride)](https://github.com/shruti0781/go_ride/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/shruti0781/go_ride?style=social)](https://github.com/shruti0781/go_ride/network/members)
 
 <p align="center">
 <img src="missed-youre-late.gif" width="650" height="350"  alt="You're Late GIF">
