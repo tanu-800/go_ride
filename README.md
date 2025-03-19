@@ -76,9 +76,8 @@ This section contains a list any major frameworks/libraries used in the project.
 3️⃣ **Navigate** to your destination with real-time assistance.  
 
 ## 👩‍💻 Team Members  
-<img src="https://contrib.rocks/image?repo=shruti0781/go_ride" alt="Contributors" />
+[![Contributors](https://contrib.rocks/image?repo=shruti0781/go_ride)](https://github.com/shruti0781/go_ride/graphs/contributors)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <p align="center">
   <img src="Sandy_Tsp-01_Single-12.jpg" width="400" height="400" alt="Bus Tracking Interface">
 </p>
