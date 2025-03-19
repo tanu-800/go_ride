@@ -33,8 +33,6 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-
----
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p align="center">
@@ -43,8 +41,6 @@
 
 ## 🚀 No More Waiting & Losing a Bus!  
 Codecrafters is developing a **user-friendly travel website** that **manages bus routes and provides efficient navigation**. Our goal is to help users easily find and navigate bus routes, ensuring a **smooth and hassle-free travel experience**.
-
----
 
 ## 💡 Key Features  
 
@@ -59,9 +55,6 @@ Codecrafters is developing a **user-friendly travel website** that **manages bus
 ### 📱 Responsive Design  
 ✔ Optimized for **desktop, tablet, and mobile** users.  
 ✔ **Bootstrap Studio** ensures a smooth and modern interface.  
-
----
-
 ## 👨‍💻 Technologies Used  
 
 ### **Frontend:**  
@@ -81,8 +74,6 @@ Codecrafters is developing a **user-friendly travel website** that **manages bus
 2️⃣ Get **live tracking** updates.  
 3️⃣ **Navigate** to your destination with real-time assistance.  
 
----
-
 ## 👩‍💻 Team Members  
 - **Shruti Gupta**  
 - **Tanu Jain**  
@@ -90,12 +81,8 @@ Codecrafters is developing a **user-friendly travel website** that **manages bus
 - **Shivangi Gupta**  
 - **Sonam**  
 
----
-
 <p align="center">
   <img src="Sandy_Tsp-01_Single-12.jpg" width="400" height="400" alt="Bus Tracking Interface">
 </p>
-
----
 
 🚀 **GoRide is here to make your travel stress-free!** Stay tuned for more updates.  
