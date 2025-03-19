@@ -40,8 +40,21 @@
 <img src="missed-youre-late.gif" width="650" height="350"  alt="You're Late GIF">
 </p>
 
-## 🚀 No More Waiting & Losing a Bus!  
-Codecrafters is developing a **user-friendly travel website** that **manages bus routes and provides efficient navigation**. Our goal is to help users easily find and navigate bus routes, ensuring a **smooth and hassle-free travel experience**.
+### 🚀 No More Waiting & Losing a Bus!  
+GoRide is a smart bus navigation system designed to help students and commuters track buses in real time, ensuring a smooth and hassle-free travel experience.
+
+🔹 Real-time Bus Tracking using Leaflet.js for interactive maps.
+🔹 Student Authentication to allow secure access and personalized tracking.
+🔹 Live Route Management to provide accurate arrival times and navigation.
+
+Stay on track, save time, and never miss your bus again!
+### Built With
+
+This section contains a list any major frameworks/libraries used in the project.
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 
 ## 💡 Key Features  
 
