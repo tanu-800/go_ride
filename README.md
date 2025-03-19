@@ -43,18 +43,18 @@
 ### 🚀 No More Waiting & Losing a Bus!  
 GoRide is a smart bus navigation system designed to help students and commuters track buses in real time, ensuring a smooth and hassle-free travel experience.
 
-🔹 Real-time Bus Tracking using Leaflet.js for interactive maps.
-🔹 Student Authentication to allow secure access and personalized tracking.
-🔹 Live Route Management to provide accurate arrival times and navigation.
+- Real-time Bus Tracking using Leaflet.js for interactive maps.
+- Student Authentication to allow secure access and personalized tracking.
+- Live Route Management to provide accurate arrival times and navigation.
 
 Stay on track, save time, and never miss your bus again!
 ### Built With
 
 This section contains a list any major frameworks/libraries used in the project.
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 
 ## 💡 Key Features  
 
@@ -65,23 +65,6 @@ This section contains a list any major frameworks/libraries used in the project.
 ### 🗺️ Navigation  
 ✔ Provides **turn-by-turn** navigation to help users **reach their destination efficiently**.  
 ✔ **Live tracking** ensures you never miss your bus!  
-
-### 📱 Responsive Design  
-✔ Optimized for **desktop, tablet, and mobile** users.  
-✔ **Bootstrap Studio** ensures a smooth and modern interface.  
-## 👨‍💻 Technologies Used  
-
-### **Frontend:**  
-- 🌐 **HTML, CSS** – For structuring and styling the UI.  
-- 🎨 **Bootstrap Studio** – Used for a **responsive and modern layout**.  
-
-### **Backend:**  
-- ⚡ **JavaScript** – Handles dynamic functionalities.  
-
-### **API Integration:**  
-🚀 Coming soon! (For **real-time tracking & bus schedules**)
-
----
 
 ## 🎯 How It Works  
 1️⃣ **Search** for your bus route.  
