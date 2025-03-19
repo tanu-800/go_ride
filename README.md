@@ -82,4 +82,11 @@ This section contains a list any major frameworks/libraries used in the project.
   <img src="Sandy_Tsp-01_Single-12.jpg" width="400" height="400" alt="Bus Tracking Interface">
 </p>
 
+## 📞 Contact
+
+Project Link: [GoRide Repository](https://github.com/shruti0781/go_ride)  
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 🚀 **GoRide is here to make your travel stress-free!** Stay tuned for more updates.  
