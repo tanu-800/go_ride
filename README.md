@@ -2,7 +2,13 @@
 [![Contributors](https://img.shields.io/github/contributors/shruti0781/go_ride?style=for-the-badge)](https://github.com/shruti0781/go_ride/graphs/contributors)
 [![Forks](https://img.shields.io/github/forks/shruti0781/go_ride?style=for-the-badge)](https://github.com/shruti0781/go_ride/network/members)
 [![Issues](https://img.shields.io/github/issues/shruti0781/go_ride?style=for-the-badge)](https://github.com/shruti0781/go_ride/issues)
-
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/WhatsApp Image 2025-02-27 at 09.42.49_04f9a3a3.jpg.png" alt="Logo" width="80" height="80">
+  </a>
+  <h3 align="center">Paving Your Path</h3>
 <p align="center">
 <img src="missed-youre-late.gif" width="650" height="350"  alt="You're Late GIF">
 </p>
