@@ -33,8 +33,9 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+
 <!-- ABOUT THE PROJECT -->
-## About The Project
+##  About The Project
 <p align="center">
 <img src="missed-youre-late.gif" width="650" height="350"  alt="You're Late GIF">
 </p>
