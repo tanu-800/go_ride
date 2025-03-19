@@ -50,6 +50,7 @@ GoRide is a smart bus navigation system designed to help students and commuters 
 
 Stay on track, save time, and never miss your bus again!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### Built With
 
 This section contains a list any major frameworks/libraries used in the project.
@@ -58,6 +59,7 @@ This section contains a list any major frameworks/libraries used in the project.
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 💡 Key Features  
 
 ### 🏙️ Bus Route Management  
@@ -68,17 +70,14 @@ This section contains a list any major frameworks/libraries used in the project.
 ✔ Provides **turn-by-turn** navigation to help users **reach their destination efficiently**.  
 ✔ **Live tracking** ensures you never miss your bus!  
 
-## 🎯 How It Works  
+##  🎯 How It Works  
 1️⃣ **Search** for your bus route.  
 2️⃣ Get **live tracking** updates.  
 3️⃣ **Navigate** to your destination with real-time assistance.  
 
 ## 👩‍💻 Team Members  
-- **Shruti Gupta**  
-- **Tanu Jain**  
-- **Pranchal Rana**  
-- **Shivangi Gupta**  
-- **Sonam**  
+<img src="https://contrib.rocks/image?repo=shruti0781/go_ride" alt="Contributors" />
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="center">
   <img src="Sandy_Tsp-01_Single-12.jpg" width="400" height="400" alt="Bus Tracking Interface">
