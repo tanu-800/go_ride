@@ -3,12 +3,14 @@
 [![Forks](https://img.shields.io/github/forks/shruti0781/go_ride?style=for-the-badge)](https://github.com/shruti0781/go_ride/network/members)
 [![Issues](https://img.shields.io/github/issues/shruti0781/go_ride?style=for-the-badge)](https://github.com/shruti0781/go_ride/issues)
 <!-- PROJECT LOGO -->
-<br />
-<div align="center">
-    <img src="images/whatsapp_image.jpg" alt="Logo" width="170" height="170">
-  </a>
-    <h3 align="center">Paving Your Path</h3>
-    <details>
+<!-- PROJECT LOGO -->
+<p align="center">
+  <img src="images/whatsapp_image.jpg" alt="Logo" width="170" height="170">
+</p>
+
+<h3 align="center">Paving Your Path</h3>
+
+<details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
@@ -21,7 +23,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-              <li><a href="#installation">Installation</a></li>
+        <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -32,8 +34,7 @@
   </ol>
 </details>
 
-
-
+---
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p align="center">
