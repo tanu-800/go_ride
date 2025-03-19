@@ -48,6 +48,7 @@ GoRide is a smart bus navigation system designed to help students and commuters 
 - Live Route Management to provide accurate arrival times and navigation.
 
 Stay on track, save time, and never miss your bus again!
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ### Built With
 
 This section contains a list any major frameworks/libraries used in the project.
@@ -55,7 +56,7 @@ This section contains a list any major frameworks/libraries used in the project.
 - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## 💡 Key Features  
 
 ### 🏙️ Bus Route Management  
