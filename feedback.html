@@ -22,11 +22,17 @@
         <option value="other">Other</option>
       </select>
 
-      <label for="routeNumber">Bus Route (Optional):</label>
-      <input type="text" id="routeNumber" placeholder="e.g. Route 45A">
+     <label for="routeNumber">Bus Route (Optional):</label>
+<input type="text" id="routeNumber" placeholder="e.g. Route 45A">
 
-      <label for="feedbackText">Your Feedback:</label>
-      <textarea id="feedbackText" rows="5" required></textarea>
+<label for="location">Location (Optional):</label>
+<input type="text" id="location" placeholder="e.g. Main Street Stop">
+
+<label for="feedbackText">Your Feedback:</label>
+<textarea id="feedbackText" rows="5" required></textarea>
+
+
+     
 
       <label for="urgency">Urgency:</label>
       <select id="urgency" required>
@@ -55,7 +61,7 @@
 
       alert("Thanks for your feedback! We appreciate your input.");
       
-      this.reset(); // Clear form after submission
+      this.reset(); 
     });
   </script>
 
